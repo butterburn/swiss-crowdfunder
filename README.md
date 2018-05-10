@@ -1,6 +1,7 @@
 README
 ======
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f2bd2360fb1f4e97864b6baacebae8ee)](https://app.codacy.com/app/malachaifrazier/swiss-crowdfunder?utm_source=github.com&utm_medium=referral&utm_content=butterburn/swiss-crowdfunder&utm_campaign=badger)
 Tests (CircleCI): [![CircleCI](https://circleci.com/gh/200ok-ungleich/swiss-crowdfunder.svg?style=svg)](https://circleci.com/gh/200ok-ungleich/swiss-crowdfunder)
 
 Security (Hakiri): [![security](https://hakiri.io/github/200ok-ungleich/swiss-crowdfunder/master.svg)](https://hakiri.io/github/200ok-ungleich/swiss-crowdfunder/master)
